@@ -3,7 +3,7 @@ permalink: de/index.html
 layout: default
 ---
 
-# Verlorener Meshcore-Repeater
+# Meshcore-Repeater
 
 Das Gerät ist harmlos. Es handelt es sich um einen Repeater des Meshcore-Netzwerks. 
 

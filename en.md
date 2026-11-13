@@ -3,9 +3,9 @@ permalink: en/index.html
 layout: default
 ---
 
-# Lost Meshcore Repeater
+# Meshcore Repeater
 
-The device is harmless. It is a Meshcore network repeater.
+The device is harmless. It is a repeater for the Meshcore network.
 
 Meshcore allows hobbyists to set up their own private wireless networks.
 
