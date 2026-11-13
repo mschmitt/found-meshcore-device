@@ -5,7 +5,7 @@ layout: default
 
 # Lost Meshcore Repeater
 
-The device is harmless. It is a Meshcore network repeater that was likely displaced or lost.
+The device is harmless. It is a Meshcore network repeater.
 
 Meshcore allows hobbyists to set up their own private wireless networks.
 
