@@ -1,5 +1,5 @@
 ---
-permalink: index.html
+permalink: en/index.html
 layout: default
 ---
 
