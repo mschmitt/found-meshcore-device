@@ -5,7 +5,7 @@ layout: default
 
 # Verlorener Meshcore-Repeater
 
-Das Gerät ist ungefährlich. Es handelt es sich um einen Repeater des Meshcore-Netzwerks, der vermutlich von Vandalen verschleppt oder verloren wurde. 
+Das Gerät ist harmlos. Es handelt es sich um einen Repeater des Meshcore-Netzwerks, der vermutlich von Vandalen verschleppt oder verloren wurde. 
 
 Mit Meshcore können auf Hobby-Basis private Funknetze aufgebaut werden. 
 
