@@ -3,6 +3,8 @@ permalink: de/index.html
 layout: default
 ---
 
+# Verlorener Meshcore-Repeater
+
 Diese Seite steht in keinerlei Beziehung zum Eigentümer des Geräts, auf dem diese Adresse gefunden wurde .
 
 Das Gerät ist ungefährlich. Es handelt es sich um einen Repeater des Meshcore-Netzwerks, der vermutlich von Vandalen verschleppt oder verloren wurde. 
